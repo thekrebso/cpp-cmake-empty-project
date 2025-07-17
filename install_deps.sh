@@ -6,7 +6,5 @@ sudo apt update && sudo apt install -y \
     clangd \
     build-essential \
     cmake \
-    ninja-build \
-    libfmt-dev \
-    libgtest-dev \
-    googletest
+    ninja-build
+
