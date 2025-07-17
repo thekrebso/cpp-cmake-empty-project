@@ -1,3 +1,12 @@
 BasedOnStyle: LLVM
 IndentWidth: 4
 PointerAlignment: Left
+ColumnLimit: 100
+UseTab: Never
+BreakAfterAttributes: Always
+AlwaysBreakTemplateDeclarations: Yes
+IndentRequires: true
+AllowShortFunctionsOnASingleLine: InlineOnly
+AlignAfterOpenBracket: BlockIndent
+BinPackArguments: false
+BinPackParameters: false
